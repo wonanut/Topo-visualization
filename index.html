@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>lineDrawer</title>
+	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<canvas id="canvas" width="400" height="300">Sorry, your browser does not support canvas.</canvas>
+	<div id="toolbar">
+		<button class="toolbar-btn btnActive" id="btnPointer">SELECT</button>
+		<button class="toolbar-btn" id="btnClear">DELNODE</button>
+		<button class="toolbar-btn" id="btnDrawNode">ADDNODE</button>
+		<button class="toolbar-btn" id="btnConnect">GRAPH</button>
+		<button class="toolbar-btn" id="btnConnBinTree">BINTREE</button>
+		<!-- <button class="toolbar-btn" id="btnConnect">BinTree</button> -->
+	</div>
+
+	<div id="setValue"><input type="text" id="value" onkeypress="setNodeValue();"></div>
+	<div id="setWeight"><input type="text" id="weight" onkeypress="setLineWeight();"></div>
+	<script type="text/javascript" src="js/Node.js"></script>
+	<script type="text/javascript" src="js/line.js"></script>
+	<script type="text/javascript" src="js/binTree.js"></script>
+	<script type="text/javascript" src="js/utils.js"></script>
+	<script type="text/javascript" src="js/display.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
