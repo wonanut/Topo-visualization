@@ -2,6 +2,8 @@
 
 *current version 0.0.2*
 
+> The `BinTree` mode is not available now : )
+
 
 
 ## Introduction
