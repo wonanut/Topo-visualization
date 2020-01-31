@@ -27,6 +27,7 @@ The toolbar is located on the top of the screen. So far there has **5** buttons.
 Right click on the node or edge to set the value / weight.
 
 
+
 ## Functions
 
 The current version is just the simplest tools with which you can add/delete nodes and add edges. What's more, the adjacency list will generate automatically.
