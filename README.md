@@ -8,12 +8,23 @@
 
 ## Introduction
 
-This is a beta version of `Graph` or `Topology` visualization tools which can help you draw networks quickly. In my point of view, this tool is very easy to use so I do not provide a manual book : )
-
-Here is a shortcut of the framework:
+This is a beta version of `Graph` or `Topology` visualization tools which can help you draw networks quickly. Here is a shortcut of the framework:
 
 ![](./images/intro.png)
 
+
+## Handbook
+### Toolbar
+The toolbar is located on the top of the screen. So far there has **5** buttons.
+
+- `SELECT`: the default mode, in which you can drag the node on the canvas to update their positions.
+- `DELNODE`: in this mode you can click on the node on the canvas to delete a node. Note that all the line linked to the node will be deleted automtically.
+- `ADDNODE`: in this mode you can add a node on the canvas by click on a flat region.
+- `GRAPH`: in this mode you can click on a node and then click on the other node to make a connection between the two nodes.
+- `BINTREE`: not available so far.
+
+### Setting values / weights
+Right click on the node or edge to set the value / weight.
 
 
 ## Functions
