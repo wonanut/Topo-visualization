@@ -8,12 +8,16 @@
 
 ## Introduction
 
-This is a beta version of `Graph` or `Topology` visualization tools which can help you draw networks quickly. Here is a shortcut of the framework:
+This is a beta version of `Graph` or `Topology` visualization tools which can help you draw networks quickly. You can [click here to visit the online demo](https://wonanut.github.io/archives/Topo-visualization/).
+
+Here is a shortcut of the framework:
 
 ![](./images/intro.png)
 
 
+
 ## Handbook
+
 ### Toolbar
 The toolbar is located on the top of the screen. So far there has **5** buttons.
 
