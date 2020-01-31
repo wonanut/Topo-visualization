@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This is a beta version of `Graph` or `Topology` visualization tools which can help you draw networks quickly. I promise that it is very easy to use so that I decide not to provide the manual book to you : )
+This is a beta version of `Graph` or `Topology` visualization tools which can help you draw networks quickly. In my point of view, this tool is very easy to use so I do not provide a manual book : )
 
 Here is a shortcut of the framework:
 
